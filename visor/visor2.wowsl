@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>WOW Slider</AppName>
+            <AppUrlS>WOWSlider.com</AppUrlS>
+            <AppVersion>8.7</AppVersion>
+            <AutoPlay>true</AutoPlay>
+            <AutoPlayVideo>false</AutoPlayVideo>
+            <Captions>true</Captions>
+            <CaptionsEffect>parallax</CaptionsEffect>
+            <Controls>true</Controls>
+            <FontSize>13</FontSize>
+            <FullScreen>false</FullScreen>
+            <GalleryName>visor2</GalleryName>
+            <GallerySuffix>2</GallerySuffix>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEffect>dribbles</ImageEffect>
+            <ImageFillColor>#000000</ImageFillColor>
+            <ImageHeight>360</ImageHeight>
+            <ImageQuality>90</ImageQuality>
+            <ImageShrink2>false</ImageShrink2>
+            <ImageStretch>true</ImageStretch>
+            <ImageTemplate>C:/Program Files (x86)/WOW Slider/templates/backgnd/convex/</ImageTemplate>
+            <ImageTemplateName>Convex</ImageTemplateName>
+            <ImageWidth>640</ImageWidth>
+            <Images>true</Images>
+            <JoomlaType>2.5</JoomlaType>
+            <OneLoop>false</OneLoop>
+            <OrderRandom>false</OrderRandom>
+            <PlayPause>true</PlayPause>
+            <Preloader>false</Preloader>
+            <PublishFileName>J:/DAM/2° PARCIAL/aplicaciones/app10/wowslider.html</PublishFileName>
+            <PublishIndex>wowslider.html</PublishIndex>
+            <PublishPath>J:/DAM/2° PARCIAL/aplicaciones/app10</PublishPath>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>file</PublishType>
+            <RelativePath>false</RelativePath>
+            <ShowBullets>1</ShowBullets>
+            <ShowControls>false</ShowControls>
+            <ShowTooltips>1</ShowTooltips>
+            <SizeStyle>1</SizeStyle>
+            <SlideshowDelay>20</SlideshowDelay>
+            <SlideshowDuration>20</SlideshowDuration>
+            <SoundEnable>0</SoundEnable>
+            <SoundFileName></SoundFileName>
+            <StopOnHover>false</StopOnHover>
+            <SwipeSupport>2</SwipeSupport>
+            <TemplateColor>#54acd2</TemplateColor>
+            <TemplateFont>Gurajada</TemplateFont>
+            <TemplateName>convex</TemplateName>
+            <ThumbAlign>bottom</ThumbAlign>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>48</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>0</ThumbWidth>
+            <Thumbnails>false</Thumbnails>
+            <TooltipPos>bottom</TooltipPos>
+            <noFrame>0</noFrame>
+        </Settings>
+        <Images RelativePath="false">
+            <Image>
+                <url>J:/DAM/2° PARCIAL/aplicaciones/app10/imagenes/buap0.png</url>
+                <title>buap0</title>
+                <filesize>37733</filesize>
+            </Image>
+            <Image>
+                <url>J:/DAM/2° PARCIAL/aplicaciones/app10/imagenes/buapinst2.jpg</url>
+                <title>buapinst2</title>
+                <filesize>79244</filesize>
+            </Image>
+            <Image>
+                <url>J:/DAM/2° PARCIAL/aplicaciones/app10/imagenes/unid.png</url>
+                <title>unid</title>
+                <filesize>37077</filesize>
+            </Image>
+            <Image>
+                <url>J:/DAM/2° PARCIAL/aplicaciones/app10/imagenes/unam3.png</url>
+                <title>unam3</title>
+                <filesize>20118</filesize>
+            </Image>
+            <Image>
+                <url>J:/DAM/2° PARCIAL/aplicaciones/app10/imagenes/unam.jpg</url>
+                <title>unam</title>
+                <filesize>257245</filesize>
+            </Image>
+            <Image>
+                <url>J:/DAM/2° PARCIAL/aplicaciones/app10/imagenes/buap2.png</url>
+                <title>buap2</title>
+                <filesize>9986</filesize>
+            </Image>
+            <Image>
+                <url>J:/DAM/2° PARCIAL/aplicaciones/app10/imagenes/unid2.jpg</url>
+                <title>instalaciones buap.</title>
+                <filesize>76853</filesize>
+            </Image>
+            <Image>
+                <url>J:/DAM/2° PARCIAL/aplicaciones/app10/imagenes/buap4.jpg</url>
+                <title>buap4</title>
+                <filesize>35278</filesize>
+            </Image>
+            <Image>
+                <url>J:/DAM/2° PARCIAL/aplicaciones/app10/imagenes/unam.png</url>
+                <title>unam</title>
+                <filesize>20118</filesize>
+            </Image>
+            <Image>
+                <url>J:/DAM/2° PARCIAL/aplicaciones/app10/imagenes/unid3.png</url>
+                <title>unid3</title>
+                <filesize>78348</filesize>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>
